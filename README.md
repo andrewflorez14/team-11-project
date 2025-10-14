@@ -25,3 +25,9 @@ contribution Logan Bermudez
 1. Dataset Search & Selection:
 - Identify a publicly available dataset relevant to the project topic. (Already done)
 - Provide dataset link and justification.
+
+contribution Amir Fauzi:
+2. Data Cleaning & Preparation:
+- Handle missing values, inconsistencies, and incorrect data entries.
+- Standardize data types (e.g., dates, numeric fields).
+- Document the cleaning process.
