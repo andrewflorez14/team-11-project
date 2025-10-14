@@ -20,3 +20,8 @@ to evaluate both ethical and practical dimensions of urban planning. The expecte
 data-driven assessment of the environmental and social benefits of walkable city design, offering
 insight for policymakers, engineers, and planners seeking to balance economic growth with
 ethical responsibility toward public health and climate sustainability.
+
+contribution Logan Bermudez
+1. Dataset Search & Selection:
+- Identify a publicly available dataset relevant to the project topic. (Already done)
+- Provide dataset link and justification.
