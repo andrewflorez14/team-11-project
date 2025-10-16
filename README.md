@@ -33,7 +33,7 @@ contribution Amir Fauzi:
 - Document the cleaning process.
 
 contribution Ang Mangong
-
+Building the Streamlit application.
 
 contribution Prince Tsague
 Writing documentation and project report.
