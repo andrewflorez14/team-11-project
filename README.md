@@ -32,7 +32,7 @@ contribution Amir Fauzi:
 - Standardize data types (e.g., dates, numeric fields).
 - Document the cleaning process.
 
-contribution Ang Mangok
+contribution Ang Mangong
 
 
 contribution Prince Tsague
