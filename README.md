@@ -21,6 +21,10 @@ data-driven assessment of the environmental and social benefits of walkable city
 insight for policymakers, engineers, and planners seeking to balance economic growth with
 ethical responsibility toward public health and climate sustainability.
 
+contribution Andrew Florez - Managing GitHub workflow (branches, commits, merges).
+  3. Create a shared GitHub repository.
+     - Maintain a clear commit history with descriptive messages.
+
 contribution Logan Bermudez
 1. Dataset Search & Selection:
 - Identify a publicly available dataset relevant to the project topic. (Already done)
