@@ -36,3 +36,4 @@ contribution Ang Mangong
 
 
 contribution Prince Tsague
+Writing documentation and project report.
