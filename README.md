@@ -45,3 +45,7 @@ contribution Prince Tsague
 Writing documentation and project report.
 - Document the cleaning process.
 - Maintain a clear commit history with descriptive messages.
+
+Project Outcome
+ The expected outcome is a data-driven assessment of the environmental and social benefits of walkable city design, offering insight for policymakers, engineers, and planners seeking to balance economic growth with ethical responsibility toward public health and climate sustainability.
+
