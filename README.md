@@ -31,3 +31,8 @@ contribution Amir Fauzi:
 - Handle missing values, inconsistencies, and incorrect data entries.
 - Standardize data types (e.g., dates, numeric fields).
 - Document the cleaning process.
+
+contribution Ang Mangok
+
+
+contribution Prince Tsague
