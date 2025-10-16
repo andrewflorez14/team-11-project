@@ -38,6 +38,10 @@ contribution Amir Fauzi:
 
 contribution Ang Mangong
 Building the Streamlit application.
+- Build a Streamlit app to present the dataset, results, and visualizations interactively.
+- Include filtering/selection features and summarize project findings.
 
 contribution Prince Tsague
 Writing documentation and project report.
+- Document the cleaning process.
+- Maintain a clear commit history with descriptive messages.
