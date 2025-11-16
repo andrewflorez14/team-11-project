@@ -50,7 +50,7 @@ if page == "New Mexico Data":
     else:
         filtered_nm = df_nm
 
-    st.write("Filtered Data")
+    st.write("### Filtered Data")
     st.dataframe(filtered_nm)
 
     # Plot emissions if column exists
@@ -94,14 +94,14 @@ elif page == "Full Dataset":
             filtered_all[col].between(selected_range[0], selected_range[1])
         ]
 
-    st.write("Filtered Dataset")
+    st.write("### Filtered Dataset")
     st.dataframe(filtered_all)
 
 # -------------------------
 # Page 3 — Visualizations
 # -------------------------
 elif page == "Visualizations":
-    st.header("Visualizations")
+    st.header("📈 Visualizations")
 
     st.write("Select which dataset to visualize:")
     data_choice = st.radio("Dataset:", ["New Mexico", "Full Dataset"])
@@ -129,9 +129,24 @@ elif page == "Visualizations":
     sns.scatterplot(data=df_vis, x=x_col, y=y_col, ax=ax2)
     st.pyplot(fig2)
 
-
+# -------------------------
+# Page 4 — Summary
+# -------------------------
 elif page == "Summary":
-    st.header("Project Summary")
+    st.header("📄 Project Summary")
+
+    st.markdown("""
+    ### Key Findings  
+    - New Mexico emissions show clear trends over time (based on `NewMexico_emissions.csv`).  
+    - The full dataset (`data_emissions.csv`) suggests differences in emissions across regions/categories.
+    - Higher walkability or shorter commute distances often correlate with lower emissions.
+    - Filtering controls allow interactive exploration of all variables.
+
+    ### Next Steps  
+    - Add predictive modelling widgets.  
+    - Add maps if location data is available.  
+    - Add scenario sliders (e.g., % increase in walkability → estimated emissions reduction).
+    """)
 
     # Overall stats
     st.subheader("Overall Statistics (Full Dataset)")
